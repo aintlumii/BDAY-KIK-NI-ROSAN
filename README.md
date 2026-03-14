@@ -8,6 +8,6 @@ Simple Interactive Birthday Cake ni Rusan
 
 --------------------------------------------------
 
-![]([image-url](https://github.com/aintlumii/BDAY-KIK-NI-ROSAN/blob/7a76628451a0f4d50093891134c29d097f2b9f32/asset/dawg.jpg))
+!([image-url](https://github.com/aintlumii/BDAY-KIK-NI-ROSAN/blob/7a76628451a0f4d50093891134c29d097f2b9f32/asset/dawg.jpg))
 
 --------------------------------------------------
