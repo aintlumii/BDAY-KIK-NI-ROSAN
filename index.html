@@ -413,7 +413,7 @@
           let sum = 0;
           for (const v of buf) { const n = (v-128)/128; sum += n*n; }
           const rms = Math.sqrt(sum / buf.length);
-          if (rms > 0.18) { if (++frames >= 3) blowOut(); }
+          if (rms > 0.15) { if (++frames >= 5) blowOut(); }
           else frames = 0;
           requestAnimationFrame(detect);
         })();
